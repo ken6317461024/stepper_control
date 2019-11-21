@@ -27,8 +27,9 @@ int angle=0;
 int uSecondDelay= 800;
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "Nayatel-Smart 1"
-#define WLAN_PASS       "temp123sms"
+//uncommecnt these two lines and enter your wifi credentials
+//#define WLAN_SSID       "YOUR WIFI SSID"
+//#define WLAN_PASS       "WIFI Password"
 
 /************************* Adafruit.io Setup *********************************/
 
